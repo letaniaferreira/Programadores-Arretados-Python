@@ -13,6 +13,8 @@ ____________________________________________________________________
 
 > 100 desafios e exercicios de Python do Guanabara: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 
+> Google docs with course structure - https://docs.google.com/document/d/17D6zg7a9-kHlusEYFhppD3RE5bScc_9eV-LiT0a5BKc/edit
+
 ____________________________________________________________________
 
 **Material para a aula 1** 
