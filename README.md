@@ -7,6 +7,7 @@ ____________________________________________________________________
 *Playlist completa do curso de Python:* https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
 *Material de apoio:*
+> COLAB - https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar
 
 > The Python Language Reference: https://docs.python.org/3/reference/index.html
 
