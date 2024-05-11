@@ -47,6 +47,35 @@ ________________________________________________________________________________
 
 **Material para aula 3**
 
+*Instalando o Python e o IDLE:* 
+
+Aula 3 - https://www.youtube.com/watch?v=VuKvR1J2LQE&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=3 
+
+Tarefa:
+-Instalar o Python e o IDLE e deixar tudo funcionando até domingo à noite. (ver no video da aula 3 como instalar).
+
+O primeiro encontro do grupo será na segunda-feira, dia 13 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
+O encontro será por vídeo. Para participar do encontro vocês vão entrar nesse link 5 minutos antes das 3 da tarde: (Add link here)
+__________________________________________________________________________________________________________
+
+**Material para aula 4**
+
+*Escrever seu primeiro script Python:* 
+
+Aula 4 - https://www.youtube.com/watch?v=31llNGKWDdo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=4 
+
+Perguntas:
+-O que é uma variável?
+
+Tarefa:
+-Escrever um script que faça o print de 'Hola Mundo!'
+
+O encontro 2 do grupo será na sexta-feira, dia 17 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
+O encontro será por vídeo. Para participar do encontro vocês vão entrar nesse link 5 minutos antes das 3 da tarde: (Add link here)
+__________________________________________________________________________________________________________
+
+**Material para aula 5**
+
 *Como funciona a internet:* 
 
 (Capítulo 2/Aula 1) https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7 
@@ -59,7 +88,7 @@ Perguntas:\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
-**Material para aula 4**
+**Material para aula 6**
 
 *Domínio, URL, servidor, cliente*
 
@@ -72,7 +101,7 @@ Perguntas:\
 
 __________________________________________________________________________________________________________
 
-**Material para aula 5**
+**Material para aula 7**
 
 *CSS, HTML e JavaScript*
 
@@ -88,7 +117,7 @@ Perguntas:\
 7- Qual é o nome de um navegador?
 __________________________________________________________________________________________________________
 
-**Material para aula 6**
+**Material para aula 8**
 
 *Frontend & Backend*
 
