@@ -71,7 +71,8 @@ Perguntas:
 -O que é uma variável?
 
 Tarefa:
--Escrever um script que faça o print de 'Hola Mundo!'
+-Escrever um script que faça o print de 'Hola Mundo!' e me mandar até quarta-feira, dia 15 de maio.
+-Fazer os desafios 1 e 2 que ele dá no fim do video antes da sexta-feira.
 
 O encontro 2 do grupo será na sexta-feira, dia 17 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
 O encontro será por vídeo. Para participar do encontro vocês vão entrar nesse link 5 minutos antes das 3 da tarde: (Add link here)
