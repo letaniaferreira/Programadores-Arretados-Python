@@ -85,14 +85,29 @@ ________________________________________________________________________________
 Aula 5 - https://www.youtube.com/watch?v=ElRd0cbXIv4&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=6
 
 Tarefa:
--Verifique qual o seu sistema operacional e instale PyCharme e deixar tudo funcionando. (ver no video da aula 5 como instalar).
+-Verifique qual o seu sistema operacional(Windows, mac, Android...) e instale PyCharme e deixar tudo funcionando. (ver no video da aula 5 como instalar).
+-Nesse video ele ensina a mudar a cor do texto, o tamanho da letra, a cor do background, etc...divirta-se e faça seu ambiente de desenvolvimento de python do jeito que você achar mais legal :) (Isso é opcional)
 
-O prósimo encontro do grupo será na segunda-feira, dia 21 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
-O encontro será por vídeo. Para participar do encontro vocês vão entrar nesse link 5 minutos antes das 3 da tarde: (Add link here)
-
-____________________________________________________________________________________________________________
+O próximo encontro do grupo será na segunda-feira, dia 20 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
+_____________________________________________________________________________________________________________
 
 **Material para aula 6**
+
+*Tipos primitivos:* 
+
+Aula 6 - https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=9
+solução do desafio 3 e apresentação de int(), str(), float() e bool() 
+
+Tarefa:
+-Verifique qual o seu sistema operacional e instale PyCharme e deixar tudo funcionando. (ver no video da aula 5 como instalar).
+-Nesse video ele ensina a mudar a cor do texto, o tamanho da letra, a cor do background, etc...divirta-se e faça seu ambiente de desenvolvimento de python do jeito que você achar mais legal :) (Isso é opcional)
+
+O próximo encontro do grupo será na sexta-feira, dia 24 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
+_____________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________________
+**Material sobre internet, redes, etc**
 
 *Como funciona a internet:* 
 
@@ -151,4 +166,15 @@ Perguntas:\
 7- O que é um desenvolvedor full stack?\
 
 __________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________
+
+**Lista de exercícios/Resolução**
+
+Exercicio 001 (Hello World!) e exemplos de como o PyCharme ajuda a formatar seu código:
+  https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=7
+
+Exercício 2 - Pedir o nome de uma pessoa e saudar a pessoa, uso do .format(): 
+  https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=8
 
