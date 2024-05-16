@@ -80,6 +80,20 @@ ________________________________________________________________________________
 
 **Material para aula 5**
 
+*Instalando o PyCharme:* 
+
+Aula 5 - https://www.youtube.com/watch?v=ElRd0cbXIv4&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=6
+
+Tarefa:
+-Verifique qual o seu sistema operacional e instale PyCharme e deixar tudo funcionando. (ver no video da aula 5 como instalar).
+
+O prósimo encontro do grupo será na segunda-feira, dia 21 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
+O encontro será por vídeo. Para participar do encontro vocês vão entrar nesse link 5 minutos antes das 3 da tarde: (Add link here)
+
+____________________________________________________________________________________________________________
+
+**Material para aula 6**
+
 *Como funciona a internet:* 
 
 (Capítulo 2/Aula 1) https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7 
@@ -92,7 +106,7 @@ Perguntas:\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
-**Material para aula 6**
+**Material para aula 7**
 
 *Domínio, URL, servidor, cliente*
 
@@ -105,7 +119,7 @@ Perguntas:\
 
 __________________________________________________________________________________________________________
 
-**Material para aula 7**
+**Material para aula 8**
 
 *CSS, HTML e JavaScript*
 
@@ -121,7 +135,7 @@ Perguntas:\
 7- Qual é o nome de um navegador?
 __________________________________________________________________________________________________________
 
-**Material para aula 8**
+**Material para aula 9**
 
 *Frontend & Backend*
 
