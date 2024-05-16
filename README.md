@@ -98,9 +98,8 @@ ________________________________________________________________________________
 Aula 6 - https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=9
 solução do desafio 3 e apresentação de int(), str(), float() e bool() 
 
-Tarefa:
--Verifique qual o seu sistema operacional e instale PyCharme e deixar tudo funcionando. (ver no video da aula 5 como instalar).
--Nesse video ele ensina a mudar a cor do texto, o tamanho da letra, a cor do background, etc...divirta-se e faça seu ambiente de desenvolvimento de python do jeito que você achar mais legal :) (Isso é opcional)
+Tarefa:????? - talvez fazer uma versão mais simples do exercício 4 
+-Fazer o exercício 4: https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=11
 
 O próximo encontro do grupo será na sexta-feira, dia 24 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
 _____________________________________________________________________________________________________________
@@ -177,4 +176,11 @@ Exercicio 001 (Hello World!) e exemplos de como o PyCharme ajuda a formatar seu 
 
 Exercício 2 - Pedir o nome de uma pessoa e saudar a pessoa, uso do .format(): 
   https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=8
+
+Exercício 3 - Entrar 2 numeros e retornar soma:
+  https://www.youtube.com/watch?v=PB254Cfjlyk&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=10
+
+Exercício 4 - Entrar algo e programa vai retorna se o que você entrou é:
+  qual o tipo primitivo, se só tem espaços, se é um número, se é alfabetico, se é alfanumérico,se está em maiúsculas, se esá em minúsculas, se está capitalizado
+  https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=11
 
