@@ -22,9 +22,9 @@ ____________________________________________________________________
 Abertura - https://youtu.be/S9uPNppGsGo?si=Nj6WLLO1zROk0DQW
 
 Perguntas: 
-Você teria medo de anadar em um carro auto-dirigivel?
-Olhe ao seu redor, que coisas usam a programação?
-Quais são algumas coisas que o programador faz?
+>Você teria medo de anadar em um carro auto-dirigivel?
+>Olhe ao seu redor, que coisas usam a programação?
+>Quais são algumas coisas que o programador faz?
 
 Tarefa: Pequise na internet porque a linguangem de programação se chama Pyhton.
 
@@ -35,10 +35,10 @@ ________________________________________________________________________________
 *História do Python:* https://youtu.be/Mp0vhMDI7fA?si=4RWp3bokOpBSX0pn
 
 Perguntas:
-Onde começou a linguagem Python e porquê?
-Você já usou alguma aplicação ou algum jogo feito em Python?
-Qual as 2 carateristicas que você acha mais interessantes no Python e porquê?
-Qual dos 4 jogos feitos em Python que o Guanabara falou parece mais interessante e porquê?
+>Onde começou a linguagem Python e porquê?
+>Você já usou alguma aplicação ou algum jogo feito em Python?
+>Qual as 2 carateristicas que você acha mais interessantes no Python e porquê?
+>Qual dos 4 jogos feitos em Python que o Guanabara falou parece mais interessante e porquê?
 
 
 *Tarefa:
