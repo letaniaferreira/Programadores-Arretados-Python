@@ -100,7 +100,7 @@ ________________________________________________________________________________
 Aula 6 - https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=9
 solução do desafio 3 e apresentação de int(), str(), float() e bool() 
 
-Tarefa:????? - talvez fazer uma versão mais simples do exercício 4 
+Tarefa:Fazer desafio 3 mandar a foto no grupo até sexta-feira, 24 de maio. 
 -Fazer o exercício 4: https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=11
 
 O próximo encontro do grupo será na sexta-feira, dia 24 de maio, às 15:00 hrs (3 da tarde) horário do Recife. 
